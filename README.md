@@ -6,7 +6,9 @@ Liquiboard는 사용자의 터치 습관을 인식하여 오타를 줄일 수 �
 
 LQforPC 폴더에는 pc용 테스트 코드가 있으며, 터치 대신 클릭으로 같은 과정을 수행합니다.
 
-나머지 폴더에는 android용 코드가 있으며, 빌드해야 사용할 수 있습니다. 이 경우 Processing for Android도 필요합니다.
+나머지 폴더에는 Android용 코드가 있으며, 빌드해야 사용할 수 있습니다. 이 경우 Processing for Android도 필요합니다.
+
+Android 버전의 경우 PC 버전과 달리 성능상의 이유로 실시간 구획이 보여지지 않으며, EN 버튼을 누르면 5~10초 후 구획이 나타납니다. 
 
 * Processing 설치
  1) https://processing.org 접속
